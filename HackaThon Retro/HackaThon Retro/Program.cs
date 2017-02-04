@@ -10,8 +10,15 @@ namespace HackaThon_Retro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Please enter your username: ");
+            string username = Console.ReadLine();
+            Console.WriteLine("Please enter your password");
+            string password = Console.ReadLine();
+            Console.WriteLine(username + " " + password);
 
+
+
+            //I'm here
         }
     }
 }
