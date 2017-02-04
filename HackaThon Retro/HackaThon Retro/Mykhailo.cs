@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace HackaThon_Retro
 {
-    class Program
+    class Mykhailo
     {
-        static void Main(string[] args)
-        {
+         void Hello() {
             Console.WriteLine("Hello World");
-
         }
     }
 }
