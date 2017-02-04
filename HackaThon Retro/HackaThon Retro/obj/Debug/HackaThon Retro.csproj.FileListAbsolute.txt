@@ -4,3 +4,6 @@ C:\Users\alexg\Documents\GitHub\retro\HackaThon Retro\HackaThon Retro\bin\Debug\
 C:\Users\alexg\Documents\GitHub\retro\HackaThon Retro\HackaThon Retro\obj\Debug\HackaThon Retro.csprojResolveAssemblyReference.cache
 C:\Users\alexg\Documents\GitHub\retro\HackaThon Retro\HackaThon Retro\obj\Debug\HackaThon Retro.exe
 C:\Users\alexg\Documents\GitHub\retro\HackaThon Retro\HackaThon Retro\obj\Debug\HackaThon Retro.pdb
+C:\Users\Phong Nguyen\Documents\GitHub\retro\HackaThon Retro\HackaThon Retro\bin\Debug\HackaThon Retro.exe.config
+C:\Users\Phong Nguyen\Documents\GitHub\retro\HackaThon Retro\HackaThon Retro\obj\Debug\HackaThon Retro.exe
+C:\Users\Phong Nguyen\Documents\GitHub\retro\HackaThon Retro\HackaThon Retro\obj\Debug\HackaThon Retro.pdb
