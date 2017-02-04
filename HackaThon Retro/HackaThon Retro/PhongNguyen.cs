@@ -6,11 +6,30 @@ using System.Threading.Tasks;
 
 namespace HackaThon_Retro
 {
-    class PhongNguyen
+    public class PhongNguyen
     {
-        void Print()
+        public void Print()
         {
             Console.WriteLine("Hackathon");
         }
+        public string Encrypt(string pass)
+        {
+            string hidden;
+            hidden = pass;
+            foreach(char c in hidden)
+            {
+
+            }
+            return hidden;
+        }
+        public void FileOut()
+        {
+
+        }
+        public void FileIn(string encryption, System.IO.StreamWriter File)
+        {
+            File.WriteLine(encryption);
+        }
+            
     }
 }

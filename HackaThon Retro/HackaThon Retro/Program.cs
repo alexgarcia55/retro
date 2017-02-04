@@ -12,8 +12,10 @@ namespace HackaThon_Retro
     {
         static void Main(string[] args)
         {
+            System.IO.StreamWriter file = new System.IO.StreamWriter("Password.txt");
             Console.WriteLine("Hello World");
-            
+            PhongNguyen p = new PhongNguyen();
+            p.Print();
         }
     }
 }
