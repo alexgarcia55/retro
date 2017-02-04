@@ -1,6 +1,4 @@
-﻿
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,6 +15,6 @@ namespace HackaThon_Retro
             Console.WriteLine("Please enter your password");
             string password = Console.ReadLine();
             Console.WriteLine(username + " " + password);
-;        }
+        }
     }
 }
